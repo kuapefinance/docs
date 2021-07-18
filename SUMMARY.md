@@ -6,7 +6,6 @@
 
 ## Development
 
-* [KUAPE](development/kuape.md)
-* [KuApeDEX deployed](development/kuapedex-deployed.md)
-* [Smartcontract](development/smartcontract.md)
+* [$KUAPE](development/kuape.md)
+* [KuApeDEX](development/kuapedex-deployed.md)
 

@@ -1,4 +1,4 @@
-# KUAPE
+# $KUAPE
 
 ## Deployed address \(Mainnet\)
 

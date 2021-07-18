@@ -1,4 +1,4 @@
-# KuApeDEX deployed
+# KuApeDEX
 
 ## KuApeDEX **Mainnet:** <a id="mainnet"></a>
 
@@ -19,4 +19,32 @@ Testnet Deployed @ [https://kuapedex.surge.sh](https://kuapedex.surge.sh)
 **Factory Address**: [0x71A110e68D330dE4d2E8Ead7227C2B606fDF3158](https://scan-testnet.kcc.network/address/0x71A110e68D330dE4d2E8Ead7227C2B606fDF3158)
 
 **WKCS Address:** [0x5512Ae5E7eE55869dA7dc2a5D2F74a5Df65683B8](https://scan-testnet.kcc.network/address/0x5512Ae5E7eE55869dA7dc2a5D2F74a5Df65683B8)
+
+## **KuApeDexFactory.sol** :
+
+```text
+ipfs://QmZGxKg66EszQdRRjQMAWyZXpiwVBrVeVNvvjW1en6remt
+```
+
+**metadata.json** :
+
+```text
+ipfs://Qmbw7UUmNvsERiY5ix9sQVNB3KRCXsiu7bSJtFnKUs3bEt
+```
+
+
+
+## **KuApeDexRouter.sol** :
+
+```text
+ipfs://QmU8LfUS8K7FXX524pGVaQ2rY8NXw7WDtmC12NuQqPmLpX
+```
+
+**metadata.json** :
+
+```text
+ipfs://QmSrKxpgdPNsuxEyFYK1zUPFtg6FYy3cZfKanpqtJQLqzF
+```
+
+
 
